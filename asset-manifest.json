@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.363d8b1b.css",
+    "main.js": "./static/js/main.38330f38.js",
+    "static/css/64.bba8fa55.chunk.css": "./static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "./static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "./static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "./static/js/769.bda0d7b7.chunk.js",
+    "static/media/laureate.jpg": "./static/media/laureate.13fdbe11767d88c78d15.jpg",
+    "static/media/gas.jpg": "./static/media/gas.6a657ee70681dd34c6a1.jpg",
+    "static/media/wildlife.jpg": "./static/media/wildlife.71a8068ece459c0bec51.jpg",
+    "static/media/aavishkar.jpg": "./static/media/aavishkar.6078046c06bf66d36d78.jpg",
+    "static/media/techLogo.jpeg": "./static/media/techLogo.0ea0c0c8df4c2dce91b5.jpeg",
+    "static/media/technoxian.jpg": "./static/media/technoxian.570bb628d7c41410711b.jpg",
+    "static/media/Montserrat-Regular.ttf": "./static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "./static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/stratical.jpeg": "./static/media/stratical.b4fa96fdb4e95fff54e9.jpeg",
+    "static/media/go4guru.jpg": "./static/media/go4guru.8fd664ce0162deae0449.jpg",
+    "static/media/dbatuLogo.png": "./static/media/dbatuLogo.0aa7178f1f9aa7a3ea83.png",
+    "static/media/dfiie.png": "./static/media/dfiie.4ffd01b65da0a3f45f79.png",
+    "static/media/manOnTable.svg": "./static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/gdsc.png": "./static/media/gdsc.55743c30cff130116167.png",
+    "static/media/contactMailDark.svg": "./static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "./static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/trophy.webp": "./static/media/trophy.66de77f5d8ed8e64cef4.webp",
+    "static/media/skill.svg": "./static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "./index.html",
+    "static/media/talksCardBack.svg": "./static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.363d8b1b.css.map": "./static/css/main.363d8b1b.css.map",
+    "main.38330f38.js.map": "./static/js/main.38330f38.js.map",
+    "64.bba8fa55.chunk.css.map": "./static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "./static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "./static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "./static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.363d8b1b.css",
+    "static/js/main.38330f38.js"
+  ]
+}
