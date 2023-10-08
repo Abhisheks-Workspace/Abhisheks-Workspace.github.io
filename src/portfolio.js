@@ -410,9 +410,9 @@ const achievementSection = {
         {
           name: "Drive Link of Certificates",
           url: "https://drive.google.com/drive/folders/1BUaCXbVdR_9tasoQ5Sru8RZSRjkLUSsL?usp=drive_link"
-        },
+        }
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
