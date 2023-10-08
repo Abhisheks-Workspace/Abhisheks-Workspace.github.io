@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Abhishek Sharma",
+  username: "AbhiDev",
   title: "Hi all, I'm Abhishek",
   subTitle: emoji(
     "A passionate Data Science Engineer 🚀  with an insatiable curiosity for uncovering hidden insights. I embark on each data set like a treasure hunt, seeking the gems of knowledge buried within. "
