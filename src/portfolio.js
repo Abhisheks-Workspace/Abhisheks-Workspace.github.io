@@ -202,7 +202,7 @@ const workExperiences = {
     {
       role: "Python Developer Intern",
       company: "TechEdu",
-      companylogo: require("./assets/images/techLogo.jpeg"),
+      companylogo: require("./assets/images/techLogo.jpg"),
       date: "Nov 2021 – Dec 2022",
       desc: "Thrived as a Python Developer Intern, crafting elegant solutions and contributing to real-world projects. Collaborated closely with the team, honed coding skills, and applied Python prowess to create efficient, innovative solutions that added value to the organization.",
       descBullets: [
