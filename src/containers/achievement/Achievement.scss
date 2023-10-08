@@ -75,3 +75,19 @@
 span.certificate-tag:hover {
   background: $buttonHover;
 }
+
+/* Media Query */
+@media (max-width: 1380px) {
+  .card-title {
+    font-size: 40px;
+  }
+}
+@media (max-width: 768px) {
+  .card-title {
+    font-size: 30px;
+    text-align: center;
+  }
+  .achievement-cards-div {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+}
