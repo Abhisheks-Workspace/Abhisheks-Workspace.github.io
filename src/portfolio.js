@@ -125,9 +125,9 @@ const educationInfo = {
       duration: "February 2020 - March 2024",
       desc: "Current CGPA: 8.34",
       descBullets: [
-        "Runner-up of 15th Maharashtra State Inter-University Reseacrch Convention i.e AAVISHKAR 2023 held at Savitribai Phule Pune University",
-        "Winner of POSCO Asia Fellowship, 2023",
-        "GDSC Lead appointed by Google for DBATU, Lonere.",
+        "Runner-up of 15th Maharashtra State Inter-University Research Convention i.e AAVISHKAR 2023 held at Savitribai Phule Pune University",
+        "Winner of POSCO TJ Park Asia Fellowship, 2023",
+        "Winner of multiple National Level Research Hackhathons and Scholarships.",
       ]
     },
     {
@@ -159,7 +159,7 @@ const techStack = {
       progressPercentage: "60%"
     }
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: true, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -171,7 +171,7 @@ const workExperiences = {
       role: "Frontend Developer",
       company: "DBATU Forum of Innovation and Incubation Enterprise (DFIIE)",
       companylogo: require("./assets/images/dfiie.png"),
-      date: "Aug 2023 – Sept 2023",
+      date: "May 2023 – Aug 2023",
       desc: "Led the design and development of a feature-rich React.js website, prioritizing user experience. Implemented SEO strategies, boosting organic traffic. Managed end-to-end hosting, ensuring optimal performance. Collaborated with teams to align projects with goals and proactively enhanced user engagement through data-driven improvements.",
       descBullets: [
         <a href="https://dbatuiiec.com">Website Link of DFIIE</a>,
@@ -182,11 +182,11 @@ const workExperiences = {
       role: "MERN Stack Developer Intern",
       company: "Fizito Digital Services",
       companylogo: require("./assets/images/fizitoLogo.jpeg"),
-      date: "May 2013 – July 2023",
+      date: "Feb 2013 – May 2023",
       desc: " I played a pivotal role in bringing an EdTech Startup Website to life. I orchestrated server-side functionality using Node.js and Express.js while employing MongoDB for robust database storage. Simultaneously, I crafted a user-friendly interface with React to enhance the platform's usability.",
       descBullets: [
         <a href="https://www.fizitodigital.com/">Website Link of Fizito</a>,
-        <a href="https://drive.google.com/file/d/1BxecVW_wUNlKmT6CgowtmS1V2PP6hzwc/view?usp=sharing">Completetion Certificate</a>
+        <a href="https://drive.google.com/file/d/1DeEwgjjT5rycTCWq9imhliC0gfmuLJCj/view?usp=sharing">Completetion Certificate</a>
       ]
     },
     {
@@ -203,7 +203,7 @@ const workExperiences = {
       role: "Python Developer Intern",
       company: "TechEdu",
       companylogo: require("./assets/images/techLogo.jpg"),
-      date: "Nov 2021 – Dec 2022",
+      date: "Nov 2021 – Dec 2021",
       desc: "Thrived as a Python Developer Intern, crafting elegant solutions and contributing to real-world projects. Collaborated closely with the team, honed coding skills, and applied Python prowess to create efficient, innovative solutions that added value to the organization.",
       descBullets: [
         <a href="https://drive.google.com/file/d/14q436-xMsAOi66bHQykLStNaxONNPZNz/view?usp=sharing">Completetion Certificate</a>
@@ -319,6 +319,19 @@ const achievementSection = {
       ]
     },
     {
+      title: "Winner of  RSM-Hackathon-S-2023, 2023",
+      subtitle:
+        "Winner of RSM-Hackathon-S-2023 National Level Hackathon Competition at Rajshri Shahu Mahavidhayala, Latur!",
+      image: require("./assets/images/rsm.jpeg"),
+      imageAlt: "RSM Winner Pic",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1DeEVSN7zvnriRj_KbKpmucvErvIeQ6hz/view?usp=sharing"
+        }
+      ]
+    },
+    {
       title: "Winner of Technoxian: World Robotics Championship (Sr. Innovation Level)",
       subtitle:
         "Secured Second Position for best Innovation at International Level at Indhira Gandhi Stadium, New Delhi.",
@@ -404,7 +417,7 @@ const achievementSection = {
       title: "Winner of Multiple University Level Competetions",
       subtitle:
         "Winner of University Level Elocution Competetion, Essay Writing Competetion-2022, Paper Presentation Competetion",
-      image: require("./assets/images/trophy.webp"),
+      image: require("./assets/images/trophy.jpg"),
       imageAlt: "University Level Winner Photo",
       footerLink: [
         {
