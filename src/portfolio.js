@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Data Science Engineer 🚀  with an insatiable curiosity for uncovering hidden insights. I embark on each data set like a treasure hunt, seeking the gems of knowledge buried within. "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ARWmfLb8nfpmZvhk_BEgPHWf2j90EVCD/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1_4JD1SzrBoWQhlQ_bRW9KMideNazjIC7/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
