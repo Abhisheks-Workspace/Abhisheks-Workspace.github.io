@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.bdecd3ba.css",
-    "main.js": "./static/js/main.683fc7d0.js",
+    "main.js": "./static/js/main.4422f838.js",
     "static/css/64.bba8fa55.chunk.css": "./static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "./static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "./static/css/769.b3cbb36b.chunk.css",
@@ -15,6 +15,7 @@
     "static/media/Agustina.woff": "./static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/stratical.jpeg": "./static/media/stratical.b4fa96fdb4e95fff54e9.jpeg",
     "static/media/go4guru.jpg": "./static/media/go4guru.8fd664ce0162deae0449.jpg",
+    "static/media/tiffinwaala.png": "./static/media/tiffinwaala.2a6a76d0f3c1e4327a84.png",
     "static/media/dbatuLogo.png": "./static/media/dbatuLogo.0aa7178f1f9aa7a3ea83.png",
     "static/media/dfiie.png": "./static/media/dfiie.4ffd01b65da0a3f45f79.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -27,7 +28,7 @@
     "index.html": "./index.html",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.bdecd3ba.css.map": "./static/css/main.bdecd3ba.css.map",
-    "main.683fc7d0.js.map": "./static/js/main.683fc7d0.js.map",
+    "main.4422f838.js.map": "./static/js/main.4422f838.js.map",
     "64.bba8fa55.chunk.css.map": "./static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "./static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "./static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.bdecd3ba.css",
-    "static/js/main.683fc7d0.js"
+    "static/js/main.4422f838.js"
   ]
 }
